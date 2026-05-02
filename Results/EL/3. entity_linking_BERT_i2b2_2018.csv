@@ -1,0 +1,1283 @@
+Entity,Match,Matched Entity,Score
+asthma,True,Schizophrenia,0.9283856
+"asthma,",True,"Asthma, unspecified",0.87941664
+CAP,True,Pneumonia,0.89980185
+Asthma,True,Schizophrenia,0.9283856
+seizures,True,Paralysis,0.9102442
+"seizure,",True,"Seizure, unspecified",0.86388195
+back pain.,True,Back pain,0.8618936
+pain,True,Pain,1.0000001
+seizure,True,Rash,0.9438721
+aggitated,False,Contusion,0.7634652
+recurrent seizures,True,"Epilepsy, complex partial seizures w status epilepticus",0.8564576
+agitation,True,Agitation,1.0
+wheezing,True,Wheezing,1.0
+Ventilator associated pneumonia:,True,Ventilator associated pneumonia,0.9257158
+fever,True,Fever,0.9999998
+diuresed,False,IUD removal,0.8231169
+elevated Cr 1.9,False,Elevated CA 19-9,0.7645469
+low BPs,False,BPAP dependence,0.75187016
+#Hypertension:,False,HTN (Hypertension),0.81499875
+back pain,True,Back pain,1.0000002
+leukocytosis,True,Leukocytosis,0.99999994
+Hyperglycemia:,True,Hyperglycemia,0.94601524
+Constipation.,True,Constipation,0.9400802
+pain/fever.,False,Drug induced fever,0.79004383
+sleep.,True,Sleep talking,0.9105282
+SOB.,False,Miosis,0.7857534
+longer than 5 minutes.,False,Chronic back pain > 3 months,0.6687438
+asthma.,False,"Intermittent asthma, controlled",0.8458489
+"seizures,",False,Persistent vomiting,0.803468
+ALL,True,Fatigue,0.86994475
+cardiomyopathy,True,Secondary cardiomyopathy,0.9723225
+nausea,True,Nausea,0.99999976
+"abdominal pain,",True,Abdominal pain,0.8851274
+pain.,True,Pain crisis,0.8861784
+ascites,True,Ascites,0.99999976
+nausea.,False,Choking sensation,0.8089423
+"pain,",True,Pain crisis,0.87885404
+"constipation,",True,Constipation,0.89251435
+ALL:,False,Incomplete SAB,0.6749383
+ALL.,False,Rash,0.7562199
+leukemia,True,Arthritis,0.9506539
+GVHD,False,ADHD,0.78183633
+Embolic stroke,False,Hx of embolic stroke,0.81690025
+Cardiomyopathy,True,Secondary cardiomyopathy,0.9723225
+cardiotoxicity,False,Hypertensive cardiomyopathy,0.8334503
+ascites.,True,Ascites,0.90567005
+ascites..,False,Ascites,0.7694961
+gas.,False,Iron overdose,0.77406454
+abdominal pain,True,Abdominal pain,1.0000001
+antispasmodic effect.,False,Hyperosmolality,0.779617
+cardiomyopathy:,True,Secondary cardiomyopathy,0.94883436
+diuresis,True,Enuresis,0.86938107
+peripheral edema/ascites,True,Adenomatous thyroid goiter,0.8565615
+GVHD.,False,ADHD,0.69150406
+tachycardia,True,Tachycardia,1.0
+overdiuresis,False,Tungiasis,0.80120015
+diuresis.,False,Tungiasis,0.8078333
+"cardiomyopathy,",True,"Cardiomyopathy, unspecified",0.9302258
+"diuresis,",False,Enuresis,0.8226799
+therapeutic INR,False,Viral exanthem,0.7904439
+sob,True,Loneliness,0.8736292
+wheeze.,False,Wheezing,0.7858802
+constipation.,True,Constipation,0.9400802
+abdominal pain.,True,Abdominal pain,0.8789288
+leukemia.,False,Chronic arthritis,0.8268075
+abdominal discomfort/gas,False,Rebound abdominal tenderness,0.8273003
+prevent infection,False,Oral infection,0.8360454
+seizure prophylaxis,False,Neutropenia due to chemotherapy,0.8191205
+eye discharge,True,Eye discharge,0.99999976
+oral sores,False,Fungal sinusitis,0.8330724
+rash,True,Rash,0.9999998
+"fevers,",False,Malarial fever,0.8137598
+"weakness,",True,Pain crisis,0.85184693
+diarrhea.,True,Diarrhea,0.9201715
+cystic tumor status,True,"Benign neoplasm, right epididymis",0.85512197
+decrease insensible losses.,False,Demand ischemia,0.7630458
+Infectious Disease,True,Infectious disease carrier,0.9345914
+Infectious Disease:,True,Infectious disease carrier,0.8767998
+GIB,False,Rash,0.8042171
+pneumonia,True,Pneumonia,1.0000001
+MRSA.,True,MRSA carrier,0.8770186
+aspiration PNA.,False,Colon polyp,0.7930505
+hematoma,True,Hematoma,1.0
+Orthostatic hypotension,True,Orthostatic hypotension,1.0
+Depression,True,Schizophrenia,0.9308648
+pneumonia.,True,Pneumonia,0.8591357
+large abdominal wall hematoma,True,Right thigh hematoma,0.8800334
+Pneumonia:,True,Chronic pneumonia,0.8544209
+MRSA,True,MRSA carrier,0.9028774
+Pseudomonas,True,Pseudomonas UTI,0.9201676
+Pulmonary embolism/DVTs:,True,Fhx of pulmonary embolism,0.90572256
+rectus hematoma.,True,Subdural hematoma due to birth trauma,0.87073433
+Abdominal wall hematoma:,True,Scalp hematoma,0.8849062
+rectus hematoma,True,Hematoma,0.91148186
+Zoster:,False,Right Herpes zoster keratitis,0.73058045
+Candidal vaginitis:,True,Acute vaginitis,0.90330917
+Hyperlipidemia:,True,Hyperlipidemia,0.94530934
+Depression/SAD:,False,Adjustment disorder w depressed mood,0.79279244
+Ulcerative Colitis:,True,ulcerative mucositis due to nonantineoplastic drugs,0.91986185
+Orthostatic hypotension:,True,Orthostatic hypotension,1.0
+anxiety.,False,Nervousness,0.8241507
+wheezing.,True,Wheezing,0.8805762
+Pneumonia,True,Pneumonia,1.0000001
+GI Bleed (extensive),False,"AV block, complete",0.7184074
+"Abdominal wall hematoma,",True,"Adenocarcinoma, chest wall",0.8855773
+"Vagnitis,",False,Panniculitis,0.8129105
+"renal transplants,",False,Organ transplant rejection,0.8397926
+AF,False,Arthritis,0.83196414
+infection.,False,Viral pneumonia,0.8446835
+adrenal insufficiency.,True,"Adrenal insufficiency, unspecified",0.9816049
+hyperkalemia.,True,Hyperkalemia,0.92608744
+LFTs were significantly elevated,False,Presence of PICC line,0.6992806
+Atrial fibrillation,True,Chronic atrial fibrillation,0.96591854
+renal transplant,True,Kidney transplant rejection,0.90604275
+renal transplant.,True,Heart transplant rejection,0.86142933
+Elevated LFTs/coagulopathy:,False,Hx of coagulopathy,0.81846225
+Atrial fibrillation:,True,"Atrial fibrillation, permanent",0.9297784
+renal transplants.,False,Organ transplant rejection,0.8303831
+elevated PTH.,False,Elevated CA 125,0.78485656
+thrombocytopenia.,True,Thrombocytopenia due to alcoholism,0.9598948
+thrombocytopenia,True,Primary thrombocytopenia,0.9805348
+to control phosphorus because of kidney failure.,False,Acute renal failure due to contrast agent,0.82736766
+decompression,True,Decompression sickness,0.9280876
+"VAP,",False,RSV pneumonia,0.7999171
+VAP.,False,RSV pneumonia,0.8169526
+Acute Renal failure:,True,Acute renal failure due to obstruction,0.88893074
+dehydration with free water deficit,True,Moderate dehydration,0.8545008
+decompression.,True,Decompression sickness,0.8630395
+"beta blocker toxicity,",True,Poisoning by beta blocker,0.87585485
+Leukopenia/thrombocytopenia,True,Dysembryoplastic neuroepithelial tumor,0.87672687
+dry eyes,True,Dry mouth,0.91510355
+Sedation,False,Anemia,0.7943003
+in,True,Mania,0.85974395
+breakthrough pain.,False,Pain crisis,0.8361996
+"AML,",False,Goldblatt HTN,0.6754019
+hypotensive,True,Hypotension,0.8704392
+transfusion reaction,True,Blood transfusion reaction,0.93593335
+GERD,False,Hx of GERD,0.7057729
+MDS with AML transformation,False,HX of Amplatzer atrial septal defect closure,0.7772973
+bloody bowel movements,True,Absent bowel sounds,0.8885843
+bloody watery stools,False,Foul smelling urine,0.7233965
+thrombocytopenia:,True,Primary thrombocytopenia,0.9569541
+two,False,Loneliness,0.76409084
+transfusion reactions,True,Blood transfusion reaction,0.8696799
+positive PRA,False,Rh negative,0.807287
+transfusion reaction/PRA,False,Hematoma of dialysis access,0.8116645
+PRA positive,False,Rh positive,0.8329526
+MDS with AML transformation:,False,HX of Amplatzer atrial septal defect closure,0.7387754
+GERD:,False,Hx of GERD,0.729448
+constipation:,True,Constipation,0.8988316
+bloody bowel movements.,False,Change in bowel habit,0.81969094
+PRA positive;,False,"Type AB blood, Rh negative",0.7822182
+thrombolysis,False,Dilutional thrombocytopenia,0.84146374
+"rectal CA,",False,Bilat lower cicatricial entropion,0.733984
+"DMII,",False,MRSA carrier,0.7502956
+thrombolysis.,True,"Thrombocytosis, unspecified",0.85036844
+DMII-,False,DM 2,0.7651085
+Rectal CA-dx,False,Bilat chlamydial conjunctivitis,0.7351924
+rectal CA,False,Rectal tenesmus,0.7966641
+peri-catheter thrombus,True,Catheter complication,0.87610453
+Rectal CA-Pt,False,Recurrent UTI,0.71465564
+Diarrhea-,True,Diarrhea,0.90242183
+"volume overload,",False,Demand ischemia,0.73494524
+staph,True,Staph carrier,0.8909161
+Atrial fibrillation/flutter,True,"Atrial fibrillation, persistent",0.9152787
+"wheeze,",False,Wheezing,0.79019856
+pneumonia:,True,Chronic pneumonia,0.8544209
+"pneumonia,",False,Eye disorder,0.8426182
+insomnia.,True,Insomnia,0.92023706
+shortness of breath,False,Stumbling due to lack of coordination,0.8002777
+"dyspnea,",True,Dyspnea,0.91803235
+itching.,False,Choking sensation,0.7508227
+Apply to groin.,False,Right nipple inversion,0.7366327
+dryness.,False,Nasal dryness,0.82079434
+mucus.,False,Fecal smearing,0.7673024
+line flush,True,Callosity,0.85735977
+insomina.,False,MRSA pneumonia,0.7996677
+pain/cramping.,False,Sleep related leg cramps,0.8242892
+slurred speech,True,Slurred speech,1.0000001
+severe COPD,False,CMV hepatitis,0.7844431
+hypercarbia,False,Hypercarotenemia,0.75567555
+anxiety,True,Confusion,0.8885008
+low,True,Fatigue,0.89136344
+agitated,True,Headache,0.9217794
+hyperglycemia,True,Hyperglycemia,1.0
+respiratory depression.,False,"Intermittent asthma, controlled",0.84773064
+COPD exacerbation,True,Acute exacerbation of COPD,0.87435675
+agitation.,False,Agitation,0.8336885
+chest pain,True,Chest pain,1.0
+decreased respirations,True,Painful respirations,0.87670064
+somnolence,True,Daytime somnolence,0.87124974
+"hypercarbia,",False,"Spastic hemiplegia, left dominant side",0.81699586
+pain control.,False,Muscle fatigue,0.7937572
+"anxiety,",True,Nervousness,0.86396253
+chest pain:,True,Chest pain,0.8692571
+anxiety:,False,Separation anxiety,0.82467127
+constipation,True,Constipation,1.0
+SOB/wheeze,False,Wheezing,0.8027829
+SOB,True,Loneliness,0.8736292
+dyspnea.,True,Dyspnea,0.9395013
+back pain:,True,Back pain,0.8876817
+mental status changes,False,"Altered mental status, unspecified",0.8084202
+severe COPD.,False,Chronic DVT of bilat axillary veins,0.78161097
+metastatic adenocarcinoma,True,Adenocarcinoma metastatic to bilat kidneys,0.9326607
+pain control,True,Pain crisis,0.8918837
+rate control;,False,Gun safety counseling,0.7796608
+edema,True,Edema,1.0000001
+DVT,False,DM 2,0.8471315
+nodule,False,Callosity,0.8444833
+edema.,True,Edema,0.8518543
+"edema,",False,Edema,0.80624336
+diarrhea,True,Diarrhea,0.9999999
+DVT/PE,False,Fhx of DM,0.75276613
+"pain control,",False,Pain crisis,0.7900981
+breakthrough pain,True,Breakthrough bleeding,0.9378226
+Nausea.,False,Choking sensation,0.8089423
+apneic,False,Rh negative,0.7531029
+SCC of lung:,False,Hx of lung transplant,0.7687073
+HTN,True,Secondary HTN,0.8592864
+IDDM,True,Id reaction,0.9065342
+apnea,True,Apnea,1.0000002
+coughing up phlegm.,False,Vomiting of fecal matter,0.75865173
+apnea/hypoxia,True,Hypoxia,0.9016986
+IDDM:,False,Hx of STI,0.7528929
+HTN:,False,FHX of HTN,0.7840899
+diabetes mellitus,True,Neonatal diabetes mellitus,0.9013135
+difficulty breathing.,False,Difficulty feeding self,0.8205513
+difficulty breathing,True,Impaired swallowing,0.85188115
+decreased oxygen levels,False,Elevated blood alcohol level,0.8182117
+cellulitis.,True,Cellulitis,0.93411624
+Diabetic Ketoacidosis.,True,"Ketoacidosis due to acute alcohol intoxication, unspecified type of alcohol use",0.8781055
+"cellulitis),",True,Cellulitis,0.87067556
+foot ulcer,True,Anal ulcer,0.93680894
+"cellulitis,",True,Cellulitis,0.9288204
+abscess/cellulitis/drug,True,Subhepatic abscess,0.8571765
+"foot ulcer,",True,"Chronic ulcer of back, bone necrosis",0.85577714
+abscess,True,Abscess,0.9999999
+Diabetic Ketoacidosis:,True,"Ketoacidosis due to acute alcohol intoxication, unspecified type of alcohol use",0.8781055
+increasing glucose levels.,False,Impaired glucose tolerance,0.7903809
+Anemia:,True,Anemia,0.9134953
+Iron supplementation,False,Essential fatty acid deficiency,0.8038105
+Skin lesions:,True,Skin infection,0.85028124
+"drug reaction,",False,Drug overdose,0.8242111
+Rash.,False,Rash,0.8484302
+pruritis.,True,Prostatitis,0.8613775
+Diabetic Ketoacidosis,True,"Ketoacidosis due to acute alcohol intoxication, unspecified type of alcohol use",0.8781055
+foot infection.,True,Dental infection,0.8801279
+"respiratory distress,",True,Respiratory distress,0.87054193
+hypotension.,True,Hypotension,0.9213747
+Chronic obstructive pulmonary disease,True,Chronic obstructive asthma,0.9253963
+Hypertension.,False,HTN (Hypertension),0.8307024
+"Coronary artery disease,",True,"Neonatal pulmonary hemorrhage, unspecified",0.89343524
+tachycardiac.,True,Atrial tachycardia,0.85043097
+tachycardiac,True,Neonatal tachycardia,0.88784647
+Chronic obstructive pulmonary disease/respiratory,True,Chronic obstructive asthma,0.9106958
+respiratory distress,True,Respiratory distress,1.0
+Hypotension,True,Hypotension,1.0000002
+Hypertension,False,Kidney disease,0.8440958
+Coronary artery disease,True,Syphilitic coronary artery disease,0.9099872
+"hypotension,",True,Hypotension,0.9233956
+Renal failure,True,Renal failure,1.0
+Prophylaxis,False,Prophylactic chemotherapy,0.8025352
+Chronic obstructive pulmonary disease.,True,Chronic obstructive asthma,0.91527164
+Coronary artery disease.,True,Coronary arteritis,0.89104974
+Finger stick was 50,False,Acquired right mallet finger,0.76350254
+combative,False,Hostility,0.74388593
+screaming,True,Bleeding,0.8807311
+"hepatic encephalopathy,",True,Hepatic encephalopathy,1.0
+"carbapenemase-resistant E.coli,",True,Carbapenem resistant enterobacterales infection,0.86679447
+hepatorenal syndrome.,True,Hepatorenal syndrome,0.96243477
+"DIC,",False,RSV pneumonia,0.77541924
+DIC.,False,RSV pneumonia,0.7032395
+sedation.,False,Anemia,0.8076709
+aspiration pneumonia,True,Aspiration pneumonia,0.9999999
+Schizophrenia,True,Schizophrenia,1.0000001
+UTI.,False,Upper UTI,0.8141783
+UTI-,True,Upper UTI,0.86621594
+Pulmonary Emboli:,True,Recurrent pulmonary embolism,0.8738215
+Schizophrenia-,False,Adjustment disorder,0.8491398
+pain/discomfort,False,Acute pain,0.8111027
+"Pneumonia, MRSA:",False,"Lobar pneumonia, LUL",0.83243626
+Hypothyroidism:,True,Hypothyroidism due to thyroiditis,0.94438636
+INR<2.,False,Hx of non CNS primitive neuroectodermal tumor,0.7121695
+"for low Triiodothyronine Thyroxine (T4),",False,Classical phenylketonuria,0.7855624
+loose stools,False,Bulky stool,0.73478293
+"sedation,",False,Anemia,0.77913404
+Pulmonary Embolism,True,Acute pulmonary embolism,0.9716702
+"lung clots,",False,"Intracranial hemorrhage, unspecified due to birth trauma",0.8045361
+diuresing,False,IUD removal,0.82450557
+resusitate,False,Situs inversus,0.7655994
+astma.,False,IUD counseling,0.7754173
+"withdrawal,",False,"Seizure, unspecified",0.8027518
+withdrawal,False,Paralysis,0.8049096
+CIWA.,False,IgA deficiency,0.779704
+"intubated,",False,Difficult intubation,0.71065474
+agitated.,False,Angry,0.8239144
+withdrawal.,False,Declines chemotherapy,0.77006245
+intubated,False,Failed intubation,0.77360445
+edematous cords.,False,"Epigastric swelling, mass, or lump",0.8418269
+Ventilator Associated Pneumonia:,True,Ventilator associated pneumonia,0.9257158
+Pulmonary Embolism:,True,Recurrent pulmonary embolism,0.9157728
+solid tumors,True,Transient arthritis,0.8516545
+"Alcohol Dependence, withdrawal:",False,"Nicotine dependence due to cigarettes, in remission",0.8164537
+Clostridium difficile Colitis:,True,Clostridium perfringens food poisoning,0.9064574
+CIWA,False,Macule,0.81757367
+anxiety/insomnia,True,Insomnia,0.8746428
+sob/wheeze,False,Wheezing,0.8027829
+clot,False,Headache,0.7609855
+infection,True,Pneumonia,0.9304775
+hypertensive,True,Hypertensive crisis,0.8872064
+ventilator associated pneumonia,True,Ventilator associated pneumonia,1.0000001
+Diarrhea,True,Diarrhea,0.9999999
+spiked to 101.3,False,High head at term,0.61829686
+Rectal metastatic adenocarcinoma,True,"Adenocarcinoma, transverse colon",0.8825946
+"diarrhea,",True,Diarrhea,0.9212736
+"acidosis,",True,"Acidosis, unspecified",0.88485193
+fevers,True,Yellow fever,0.8586661
+acidosis,True,Fungal pneumonia,0.8513397
+SBO,False,Id reaction,0.80530787
+dropping HCT.,False,Hx of bladder replacement,0.7924998
+elevated INR,False,Elevated LDH,0.8074147
+neutropenic fever.,True,"Neutropenic fever, unspecified",0.9452087
+SBO.,False,IUD counseling,0.7993494
+NEUTROPENIC FEVER:,True,"Neutropenic fever, unspecified",0.93939483
+aspiration/pneumonia.,True,Acute aspiration pneumonia,0.8835931
+RECTAL CANCER:,True,Rectal cancer,0.9062792
+acidosis.,True,Anemia,0.8733656
+"CAD,",False,"CAD of CABG, unspecified, w unspecified angina",0.70407236
+"DM2,",False,DM 2,0.795964
+"HTN,",False,MRSA carrier,0.7590326
+"anemia,",True,Anemia,0.8832307
+sepsis.,False,SARS pneumonia,0.8479484
+CAD,True,Arthritis,0.87823486
+CHF,False,Q fever,0.7586047
+primary hypothyroidism;,True,Hypothyroidism due to thyroiditis,0.9419363
+hypothyroidism.,True,Hypothyroidism due to thyroiditis,0.9543556
+"hypothyroidism,",True,"Hypoparathyroidism, unspecified",0.93905556
+Pancytopenia:,True,Pancytopenia,0.86249524
+anemia,True,Anemia,1.0
+"hyponatremic,",True,Hyponatremia,0.8817112
+hypothyroidism;,True,"Hypoparathyroidism, unspecified",0.9410609
+CAD:,False,DM 2,0.69789255
+CHF:,False,"CHF, stage D",0.79824066
+overdry,False,IUD surveillance,0.7233711
+"Pancytopenia(anemia,leukopenia,thrombocytopenia),",True,Pancytopenia due to antithyroids,0.898101
+hypothyroidism,True,Hypothyroidism,1.0000002
+SAH,False,Ainhum,0.80015117
+ADHD,True,ADHD,1.0
+Schizoaffective disorder,True,"Schizoaffective disorder, bipolar type",0.96221673
+pleuritic,False,Varicose veins,0.7603868
+headaches,True,Chronic daily headache,0.86284316
+MCA aneurysm s/p coiling,True,"Ruptured aneurysm of abdominal aorta, unspecified part",0.88753307
+Asthma:,False,"Intermittent asthma, controlled",0.83934253
+Schizoaffective disorder:,True,"Schizoaffective disorder, bipolar type",0.95794266
+migraines).,False,"Migraine, intractable",0.7691392
+ADHD:,False,"ADHD, combined presentation",0.81512845
+fever.,False,Fever,0.8425862
+altered mental status,True,"Altered mental status, unspecified",0.8919463
+presumed Wernicke's.,False,Wernicke disease,0.7066803
+Wernicke Korsakoff's pathology.,True,Alcoholic Wernicke Korsakoff syndrome,0.8660091
+Agoraphobia,True,Agoraphobia,0.9999999
+serotonin syndrome,True,Serotonin syndrome,0.9999999
+opioid detox,False,Nonopioid analgesic overdose,0.84269834
+bruising,False,Painful scar,0.81647575
+altered mental status.,True,"Altered mental status, unspecified",0.8616283
+benzodiazepine intoxication,True,Benzodiazepine overdose,0.9371178
+pain-,True,Pain crisis,0.89454657
+Hypertension:,False,HTN (Hypertension),0.8370503
+Essential tremor:,False,Benign essential tremor,0.829677
+BPH:,False,Rh negative,0.8032373
+agitation/psychosis,False,Psychogenic paranoid psychosis,0.83968145
+"psychosis,",False,Childhood psychosis,0.8266115
+"back pain,",True,Back pain,0.89787066
+"Hypertension,",False,Vision disorder,0.829364
+"BPH,",False,Rh positive,0.783046
+confusion,True,Confusion,1.0000001
+chest pain radiating to the jaw.,False,Left eye pain,0.76489496
+stop the bleeding,False,Bleeding,0.6877165
+stop the bleeding.,False,Sleep talking,0.6918061
+hypotensive.,False,Hypopituitarism,0.7850027
+upper body pruritic rash.,False,Subcutaneous fat necrosis due to birth trauma,0.8328624
+anaphylaxis,True,Anaphylaxis,0.99999994
+ST elevations,False,AV block,0.75656193
+anaphylactic reaction.,False,Anaphylactic shock,0.8200005
+OA pain,False,Migraine wo aura,0.80253166
+tachycardic,True,Neonatal tachycardia,0.8789305
+cratered 15mm ulcer,False,"Pressure ulcer of buttock stage 1 (superficial skin changes), unspecified side",0.8086382
+skin boil.,False,Chemical burn of forehead,0.79850465
+tachycardia.,True,Tachycardia,0.9381356
+"SBP dropped to the 80s and high 70s,",False,DM 2 w left proliferative retinopathy,0.61522317
+maintian MAPs>60.,False,"Acute ST elevation MI, unspecified",0.71882737
+aspiration pna,False,Aspiration pneumonia,0.7794651
+cdiff,False,Vertigo,0.78600657
+Hypotension:,True,Hypotension,0.92978454
+Abd pain/gerd:,False,Hx of right total hip arthroplasty,0.7619553
+Seizure d/o:,False,Hx of seizure,0.7497027
+HCV cirrhosis,True,CMV gastritis,0.8751955
+lymphoblastic lymphoma/ALL,True,"Lymphoblastic lymphoma, unspecified site",1.0000002
+"ALL,",False,Loneliness,0.76460433
+strep viridans line infection,True,Strep viridans infection,0.97607887
+lymphoblastic lymphoma,True,"Lymphoblastic lymphoma, unspecified site",1.0000002
+lymphoblastic lymphoma/leukemia,True,"Lymphoblastic lymphoma, unspecified site",1.0000002
+lymphoma/leukemia),True,"Chronic lymphoid leukemia, in relapse",0.87315226
+lymphoma.,True,"Follicular lymphoma, unspecified type and site",0.93275154
+neuropathy.,True,Neuropathy,0.92295015
+"lymphoma,",True,"Follicular lymphoma, unspecified type and site",0.9370802
+fevers.,False,Yellow fever,0.8189227
+acute lymphoblastic leukemia/lymphoma.,True,Common acute lymphoblastic leukemia,0.96594334
+"hypotensive,",False,Hypotension,0.7908062
+lower GI bleed.,False,Left finger stress fx,0.8004772
+HIT,True,Glare,0.90356743
+atrial fibrillation,True,Chronic atrial fibrillation,0.96591854
+sedated,False,Locked in syndrome,0.7149774
+LGIB,False,Abnl cervical Pap LGSIL (low grade squamous intraepithelial lesion),0.77721846
+"dystonia,",False,Dystonic tremor,0.7504143
+atrial fibrillation.,True,Chronic atrial fibrillation,0.9324119
+afib,False,IgA deficiency,0.7995256
+afib.,False,IgG deficiency,0.77254176
+ARF,False,RSV pneumonia,0.80540633
+PEs,False,Schizophrenia,0.65830725
+"MRSA PNA,",False,MRSA carrier,0.8437302
+torulopsis,False,Hemiballism,0.8486444
+C. diff,False,RSV pneumonia,0.77894235
+dystonia,False,Tardive dystonia,0.77645075
+hct 25.9,False,IUD surveillance,0.7239357
+platelets of 37K,False,DM 1 w proteinuria,0.7181635
+DM II,True,DM 2,0.9248728
+SBP prophylaxis.,False,Serological relapse after treatment of latent early syphilis,0.80698895
+encephalopathy.,True,Encephalopathy,0.9317101
+acute alcoholic hepatitis.,True,Acute hepatitis A,0.89132124
+Acute renal insufficiency:,True,Acute renal insufficiency,0.9617677
+hepatorenal syndrome,True,Hepatorenal syndrome,1.0000001
+DM II:,True,DM 2,0.8702526
+"TIA,",False,Crystal arthritis,0.75226176
+TIA,True,Headache,0.87855947
+chronic anticoagulation,True,Declines anticoagulation therapy,0.9039995
+"Polymyalgia rheumatica,",True,Polymyalgia rheumatica,1.0000002
+Afib,False,IgA deficiency,0.7995256
+TIA's,False,Crystal arthritis,0.6868344
+neutropenia.,True,"Neutropenia, unspecified",0.91429627
+A fib,False,IgA deficiency,0.72285
+Dementia,True,Arthritis,0.9479016
+DVT prophylaxis;,False,Serological relapse after treatment of latent early syphilis,0.8392147
+"suspicion of HIT,",False,"Cause of assault, human bite",0.78816104
+her DVT.,False,"Acute post CABG DVT of bilat legs, unspecified veins",0.7676596
+anticoagulation,False,Declines anticoagulation therapy,0.8368409
+prophylaxis.,False,Serological relapse after treatment of latent early syphilis,0.77501094
+anticoagulation.,False,Hydronephrosis,0.7774217
+anxiety/depression,True,Adjustment disorder w anxiety,0.8737091
+anticoagulated,False,Declines anticoagulation therapy,0.81406975
+right foot wound.,True,Gunshot wound of right ankle,0.8845477
+0-60 mg/dL,False,"Burn, > 90% BSA",0.67519367
+"long ventriculoperitoneal tachycardiac narrow complex at 139,",True,Ventriculoperitoneal shunt infection,0.92605734
+"hypertension,",False,Vision disorder,0.829364
+paroxysmal atrial fibrillation,True,Longstanding persistent atrial fibrillation,0.89313626
+"tachycardia,",True,Tachycardia,0.9233295
+hypotension,True,Hypotension,1.0000002
+maintenance,False,Drowning,0.8270879
+"rate control,",False,Gun safety counseling,0.80463386
+TSH was also elevated to 25,False,Elevated TSH,0.68228334
+Tube feeds,False,Repeated falls,0.82900774
+angioedema,True,Angioedema,0.99999994
+angioedema.,True,Angioedema,0.9069125
+hypertension,False,Kidney disease,0.8440958
+psychosis,True,Childhood psychosis,0.92001736
+orthostatic,False,Orthostatic hypotension,0.83255714
+?angioedema.,True,Hx of angioedema,0.86884266
+orthostatic.,False,Orthostatic hypotension,0.79531085
+"low-grade fever,",False,"Hypoxemic respiratory failure, unspecified acuity",0.84909487
+"cough,",False,Choking sensation,0.739138
+lethargy,True,Lethargy,1.0
+"lethargy,",True,Lethargy,0.92469704
+HTN.,False,Secondary HTN,0.8222959
+Hyponatremia:,True,Hyponatremia,0.94936657
+hyponatremia,True,Hyponatremia,1.0000002
+neurogenic bladder,True,Neurogenic bladder,1.0
+severe hyponatremia.,True,Hyponatremia,0.91555154
+cough,True,Plague,0.87333655
+neurogenic bladder.,True,Neurogenic bladder,0.8760285
+BP control.,False,Elder nutritional neglect,0.76475364
+"hyponatremia,",True,Hyponatremia,0.93472546
+hyperglycemia with FS 470s,True,DM 2 w hyperglycemia,0.8700049
+maintain BP,False,Callosity,0.7514887
+COPD,False,IUD counseling,0.78052276
+shortness of breath.,False,Lack of coordination,0.809834
+APML,False,MRSA pneumonia,0.7687995
+NSTEMI,False,Kwashiorkor,0.7598345
+APML:,False,Abnl CNS imaging,0.6669132
+prophylaxis of ATRA syndrome,True,Serological relapse after treatment of latent early syphilis,0.8522526
+heart failure,True,Left heart failure,0.93704075
+NSTEMI.,False,Kwashiorkor,0.74633723
+hypoxic,True,Hypoxia,0.8794507
+"heart failure,",True,Liver failure,0.8536472
+thrush,False,Hoarseness,0.7553097
+"NSTEMI,",False,Kwashiorkor,0.7712639
+"APML,",False,Abnl CNS imaging,0.6974189
+PVD,False,Elevated CPK,0.64970905
+"stent placement,",False,Hx of iliac stent placement,0.81387615
+"PVD,",False,Elevated CPK,0.6619057
+stent placement,False,Wound drainage,0.7901068
+"CAD/PVD,",False,FHX of CAD,0.65496445
+AFib,False,IgA deficiency,0.7995256
+in-stent thrombosis,True,Arteriovenous graft thrombosis,0.87980163
+stenting,False,Wound drainage,0.7775703
+angioplasty/stenting,True,Surgical arteriovenous fistula stenosis,0.8705648
+angioplasty,True,Intestinal angiodysplasia,0.85941565
+Chronic pain:,True,Chronic pain,0.86206925
+Depression:,False,Psychological disorder,0.8096544
+Pain.,True,Pain crisis,0.8861784
+Chest pain:,True,Chest pain,0.8692571
+chest pressure.,False,Blood pressure elevation,0.84368634
+chest pain.,True,Chest pain,0.9103662
+PNA.,False,RSV pneumonia,0.79353625
+Hypothyroidism,True,Hypothyroidism,1.0000002
+CAP.,False,IUD insertion,0.75067794
+bronchitis.,True,Bronchitis,0.89762866
+esophagitis,True,Erosive esophagitis,0.9086648
+esophagitis.,True,"Esophagitis, unspecified",0.92800665
+Cystitis:,True,Cystitis,0.880886
+rectal discomfort.,True,Rectal bleeding,0.8704798
+Hypothyroidism.,True,Hypothyroidism due to thyroiditis,0.9543556
+"fever,",False,Fever,0.7931832
+Upper Gastrointestinal Bleed:,True,Hx of gastrointestinal bleed,0.87642294
+"chronic pain,",True,Chronic pain,0.88386965
+gastropathy,True,Gastropathy,0.9999999
+Hyperliipidemia:,True,Hyperlipidemia,0.89931846
+ulcer,True,Anal ulcer,0.8915007
+stomach irriation.,False,Abdominal swelling,0.7992252
+Metastatic breast cancer to the brain/Seizure:,True,Thyroid cancer metastatic to bone,0.8550259
+"Encephalopathy,",True,Encephalopathy,0.9304217
+her seizure.,False,Choking sensation,0.7417165
+fever/pain.,False,Drug induced fever,0.7867657
+line flush.,False,Left radius Fx,0.7864844
+anti-seizure,False,Arrested dental caries,0.70008624
+"COPD,",False,IUD counseling,0.74692667
+pinpoint pupils,False,Deconditioning,0.71757734
+sz,False,MRSA carrier,0.7344024
+toxicity.,False,Overactivity,0.82349694
+pain?).,False,Hx of stress fx,0.6957923
+IVC filter,False,IUD removal,0.79119647
+"Hypotension,",True,Hypotension,0.9233956
+pressure support.,False,Excessive horizontal overlap,0.76887035
+the UTI.,False,Lower UTI,0.8004431
+serratia):,False,Left uveitis,0.6547422
+enterococcus,True,Enterococcus infection,0.8953037
+serratia.,False,Pellagra,0.8358432
+seizure activity.,False,Gait abnormality,0.83039206
+COPD.,False,IUD insertion,0.73813283
+DVT.,False,RSV pneumonia,0.80835694
+IVF filters,False,Wound drainage,0.7815069
+Chronic PAIN:,True,Chronic pain,0.86206925
+respiratory suppression,True,Respiratory distress,0.86365914
+SOB/wheeze.,False,Wheezing,0.7786416
+seizure activity,False,Speech disturbance,0.82873046
+somnolence.,False,Daytime somnolence,0.8306305
+Type 2 Diabetes,False,Factor X deficiency,0.8184717
+urosepsis.,False,Hematemesis,0.8385047
+Atrial Fibrillation:,True,"Atrial fibrillation, permanent",0.9297784
+supratherapeutic INR.,False,Hepatosplenomegaly,0.7889925
+C. Diff,False,RSV pneumonia,0.77894235
+Pain:,True,Pain crisis,0.87899613
+Type 2 Diabetes:,False,Latent autoimmune diabetes of adults,0.8113421
+Atrial Fibrillation,True,Chronic atrial fibrillation,0.96591854
+this infection.,False,Epidemic vertigo,0.7932247
+cellulitic,False,Cellulitis,0.80162746
+BP support.,False,Tender joint,0.74952483
+hyperkalemia-treated,True,Hyperkalemia,0.87236965
+maintain BP.,False,Sleep talking,0.7179135
+"Oliguric,",False,"Syncope, vasovagal",0.69317466
+BP remain labile,False,BPAP dependence,0.737656
+low HCT.,False,Elevated LDH,0.79574555
+sedated.,False,Emotionally unstable,0.7233056
+"UOP >100cc/h,",False,"Burn, < 10% BSA",0.7672754
+ARF/Rhabdo,False,FHX of CAD,0.7501137
+Pain,True,Pain,1.0000001
+cellulitis,True,Cellulitis,0.9999999
+Acute renal failure-,True,Acute renal failure due to obstruction,0.88055134
+pressures in the 60s/30s,False,Post gender transition,0.59154296
+HAP.,False,IUD insertion,0.74569017
+Atrial fibrillation with RVR:,True,"Atrial fibrillation, paroxysmal",0.90899044
+Diarrhea:,True,Diarrhea,0.91553575
+short of breath.,False,Blurred vision,0.7137896
+chest pain.The,True,Chest pain,0.8562154
+recurrent chest pain,True,Recurrent abdominal pain,0.9424379
+Thrombocytopenia:,True,Primary thrombocytopenia,0.9569541
+"thrombocytopenia,secondary",True,Secondary thrombocytopenia,0.9545777
+"thrombocytopenia,",True,"Thrombocytopenia, unspecified",0.9560785
+"UTI,",False,Upper UTI,0.8294443
+complicated cysistits,False,Cystinuria type 1,0.80692434
+torn ACL pain,True,Left shoulder joint pain,0.87504315
+pain/temp.,False,Optic atrophy assoc w retinal dystrophy,0.7434695
+"Thrombocytopenia,",True,"Thrombocytopenia, unspecified",0.9560785
+delirium,True,Delirium,1.0000001
+cough.,False,Choking sensation,0.72876316
+sore throat.,False,Throat pain,0.81761515
+"sob,",False,Kissing spine,0.79410756
+SOB/Wheezing.,False,Wheezing,0.83027446
+blood pressures,False,Liver mass,0.8167016
+"chest pain,",True,Chest pain,0.92449856
+pulmonary embolism,True,Acute pulmonary embolism,0.9716702
+"Adrenal insufficiency,",True,"Adrenal insufficiency, unspecified",1.0
+multifocal pneumonia,False,Interstitial pneumonia,0.8489834
+"HAP,",False,Ainhum,0.76145107
+somnolent,False,Byssinosis,0.7476015
+post herpetic neuralgias.,True,Postherpetic neuralgia,0.88590103
+zoster related ear pain.,False,Brain compression due to focal lesion,0.82916415
+hospital acquired pneumonia.,True,Hospital acquired pneumonia,0.906563
+adrenal insufficiency,True,"Severe adrenal insufficiency, unspecified",0.977036
+AF:,False,Incomplete SAB,0.7081449
+GI Bleed,False,Skull fx,0.75105286
+DVT:,False,DM 2,0.7922958
+Adrenal Insufficiency:,True,"Severe adrenal insufficiency, unspecified",0.9488269
+chronic anemia,True,Chronic anemia,0.99999994
+supratherapeutic INR,False,Hepatosplenomegaly,0.7889925
+GI Bleed:,False,Open skull fx,0.6950897
+"CP,",False,Elevated CPK,0.7164643
+CP,True,Arthritis,0.87227046
+Hyperlipidemia,True,Hyperlipidemia,1.0
+increasing her Na,False,Benign shuddering attacks,0.8019432
+volume repletion.,False,"Complete edentulism, class I",0.7185644
+antiseizure prophylaxis.,False,Hx of amaurosis fugax,0.79452145
+Hyponatremia,True,Hyponatremia,1.0000002
+pressor support,False,IUD counseling,0.7811893
+erythema,True,Erythema,0.9999999
+"CHF,",False,"CHF, stage D",0.75004685
+UTI,True,Upper UTI,0.8538498
+pressor support.,False,Soft tissue mass,0.7536528
+broad spectrum antibiotics coverage.,False,High risk medication monitoring,0.7567111
+gram negative coverage,False,Gram negative pneumonia,0.83498305
+"ischemic event,",False,"Acute stroke due to ischemia, unspecified type and artery",0.827129
+wenkebach rhythm.,False,Axenfelds anomaly,0.7692399
+low EF.,False,DM 1 w bilat severe nonproliferative retinopathy,0.77393806
+"Hct of 26,",False,FHX of CAD,0.7216949
+Facial eccymoses,False,Bilat corneal xerosis,0.7984444
+erythema:,False,Nonbullous erythema multiforme,0.8393717
+peri-orbital cellulitis.,True,Perirectal cellulitis,0.8865743
+"peri-orbital cellulitis,",True,Right orbital cellulitis,0.8841598
+fear of bleed.,False,Fear of falling,0.7935816
+"agitation,",False,Pain crisis,0.8348256
+Coagulopathy:,False,"Coagulopathy, unspecified type",0.8424705
+dysrhythmias,True,Neonatal arrhythmia,0.89942825
+lower extremity DVT.,False,"Epidermal nevus, left upper eyelid",0.84812266
+Hypernatremia:,True,Hypernatremia,0.9385404
+non ST elevation MI,True,Acute non ST elevation MI,0.94888246
+"DVT prophylaxis,",False,Serological relapse after treatment of latent early syphilis,0.8288396
+HLD,False,ADHD,0.7646141
+cardiac catheterization,True,HX of cardiac catheterization,0.9002325
+cardiac catheterization.,False,HX of cardiac catheterization,0.83602905
+arthralgias.,False,Petechiae,0.7815548
+complete heart block,False,Complete colon obstruction,0.8353296
+ST elevations.,False,"Acute ST elevation MI, unspecified",0.7609348
+epistasis,True,Parapsoriasis,0.85900855
+guaiac positive stools.,False,"Type B blood, Rh positive",0.8100308
+cholesterol,True,Abnl cholesterol,0.85994315
+mildly positive urinalysis,False,Abnl urinalysis finding,0.81088895
+"stage IIIA carcinosarcoma of the uterus,",False,"Carcinosarcoma, bilat ovaries",0.846066
+"stage I mucinous carcinoma of the ovary,",True,Sebaceous carcinoma,0.87248576
+hypoxemic,True,Acute on chronic hypoxemic respiratory failure,0.904673
+her hypotension.,False,Hypotension,0.76078296
+stage IIIA carcinosarcoma of the uterus,False,"Carcinosarcoma, bilat ovaries",0.846066
+stage I mucinous carcinoma of the ovary.,True,Sebaceous carcinoma,0.87248576
+Hypercholesterolemia,True,Hypercholesterolemia,1.0
+stage I mucinous carcinoma of the ovary,True,Sebaceous carcinoma,0.87248576
+Hypoxia,True,Hypoxia,1.0000002
+her hypotension;,False,"Hypoparathyroidism, unspecified",0.8049913
+Bilateral erythema,True,Toxic erythema,0.8849672
+redness in legs,False,Swelling of right leg,0.8296762
+CHF/volume,False,FHX of CAD,0.74342346
+Normocytic Anemia,True,Acquired hemolytic anemia,0.93076783
+Thrombocytopenia,True,Primary thrombocytopenia,0.9805348
+marrow suppression,True,Bone marrow suppression,0.9052061
+Uterine & Ovarian cancer,True,Right ovarian cancer,0.9222532
+nasal stuffiness.,True,Nasal dryness,0.8543367
+"fluid overload,",False,Fluid volume disorder,0.7857597
+"skin infection of the legs,",False,"Melanoma, skin of face, unspecified part",0.8471309
+dehydrated.,True,Dehydration,0.86182725
+Crohn's,False,Dandruff,0.67534804
+aspiration PNA,False,Aspiration pneumonia,0.7794651
+DM2,True,DM 2,0.9073787
+possible pneumonia.,False,Face cancer,0.81578803
+Acute Pancreatitis:,True,Acute pancreatitis,0.9417521
+CHF.,False,Q fever,0.70294863
+Crohn's:,False,HX of Glenn shunt,0.64585847
+bloody diarrhea,True,Diarrhea,0.92952025
+consitpation.,False,Constipation,0.8264526
+goal O2 sats of 95% or higher.,False,Hx of negative pap performed within last 12 months,0.73700863
+dystonic reaction,True,Dystonic tremor,0.8884763
+pseudomonas infection of stage,True,Pseudomonas infection,0.89088476
+"residual	O	56
+severe	O	56
+paraparesis	O	56
+due	O	56
+to	O	56
+combination	O	56
+of	O	56
+deconditioning	O	56
+and	O	56
+vincristine	B-ADE	56
+toxic	I-ADE	56
+polyneuropathy,	I-ADE	56
+and	O	56
+question	O	56
+of	O	56
+critical	O	56
+illness	O	56
+polyneuropathy/myopathy.",False,DM 1 w right severe nonproliferative retinopathy,0.7688068
+polyneuropathy,True,Polyneuropathy,0.9999999
+pancytopenia,True,Pancytopenia,1.0000001
+Mycoplasma hominis PNA,False,Mycoplasma bronchopneumonia,0.8137094
+Lower extremity paraparesis,True,Hx of lower extremity skin ulcer,0.8579081
+"paraneoplastic syndrome,",True,"Schizoaffective disorder, bipolar type",0.87448084
+Diffuse Joint Pain,True,Multiple joint pain,0.9174197
+HSV,False,MRSA carrier,0.8095586
+"HSV,",False,MRSA carrier,0.81794095
+dyspepsia,True,Dyspepsia,1.0
+zoster infection,True,Herpes zoster meningitis,0.851171
+"potassium of 6,",False,Potassium overdose,0.75073326
+ALLERGIES:,True,Seasonal allergies,0.85879064
+gastrointestinal bleed,True,Gastrointestinal tract cancer,0.9222096
+"gastrointestinal bleed,",True,Gastrointestinal tract cancer,0.8896251
+THROMBOCYTOPENIA,True,Primary thrombocytopenia,0.9805348
+gastrointestinal bleed.,True,Pulmonary filariasis,0.87169796
+neuropathic pain.,True,Neuropathic pain,0.90562814
+zoster infection.,False,Congenital pneumonia due to pseudomonas,0.8440893
+thrush).,False,Bandemia,0.7059159
+itch,False,Fever,0.79562664
+scalp rash,True,Scalp injury,0.8677526
+body rash,True,Skin mass,0.8671488
+SOB/wheezing,True,Wheezing,0.8863333
+Wheezes,True,Wheezing,0.90441155
+mechanical aortic valve,True,Rheumatic aortic valve sclerosis,0.90074825
+GI bleeding,False,Breakthrough bleeding,0.83516103
+GI bleed.,False,Skull fx,0.7395061
+"recurrent gi bleeds,",False,"Abdominal migraine, intractable",0.83006525
+bleeding,True,Bleeding,0.99999994
+a subtherapeutic INR of 1.9.,False,Hx of phototherapeutic keratectomy,0.80965286
+recurrent bleeding.,False,Respiratory abnormality,0.8400239
+recurrent bleeding,True,Recurrent pneumonia,0.9151641
+bleeding.,False,Bleeding,0.83253497
+recurrent GI bleeds,False,Localized edema,0.8280137
+GI bleed/acute,False,Right plateau iris syndrome,0.7856495
+UGIB,False,IgA deficiency,0.79060507
+"mechanical valve,",False,Cardiovascular device obstruction,0.75496626
+GI bleeding.,False,Skin scar,0.79150546
+bleeding).,False,Back disorder,0.7769303
+recurrent GI bleeds.,False,Upper GI bleed due to ulcerative esophagitis,0.8463936
+bradycardia,True,Bradycardia,0.9999999
+mechanical valve.,False,Cardiovascular device obstruction,0.76518404
+Bradycardia:,True,Bradycardia,0.9383196
+bradycardia.,True,Bradycardia,0.9269173
+blood pressure control.,True,Blood pressure elevation,0.85962623
+#hypothyroidism-continued,True,Hypothyroidism,0.9103782
+#HL-continued,False,FHX of stroke,0.6923131
+#GERD-on,False,Hx of GERD,0.6981398
+GI bleed,False,Skull fx,0.75105286
+"cardiac history,",False,Cardiovascular device obstruction,0.79531926
+including stents,False,High risk medication monitoring,0.72992456
+"pain/n/v/d/c/melena/brbpr,",False,Alternating esotropia w v pattern,0.7116782
+Crohn's Disease:,False,Raynauds disease w gangrene,0.7972495
+DM,False,DM 2,0.8483063
+CMP,False,MRSA carrier,0.7710646
+"DM,",False,MRSA carrier,0.75853324
+pain/weakness.,False,Pain crisis,0.75524855
+HTN/DM.,False,Fhx of DM,0.8393698
+chronic diastolic CHF/CMP:,False,Chronic right sided CHF,0.8381313
+DM:,False,DM 2,0.8382828
+Pancreatic insufficiency:,True,Pancreatic insufficiency,0.9582732
+Chronic neuropathic/radicular pain:,True,Acute nontraumatic subdural hematoma,0.88008684
+"mental status changes,",False,"Altered mental status, unspecified",0.81665194
+h/o TIA symptoms:,False,"Epilepsy, simple partial w status epilepticus",0.81028104
+secondary prevention.,False,Secondary arthritis,0.82072794
+itching,False,Hunger,0.7981364
+weight >195 lbs.,False,Increased body weight,0.69449824
+pain:,True,Pain crisis,0.87899613
+Crohn's Disease,True,Sickle cell thalassemia disease,0.8531587
+infected knee.,False,Stomach injury,0.8380927
+chelation therapy,False,Long term aromatase inhibitor therapy,0.81263345
+CAP/neutropenic,False,Neutropenic splenomegaly,0.79041725
+"pancytopenia,",True,Pancytopenia,0.91909194
+febrile,False,Febrile UTI,0.7805971
+galactomannan,False,Galactosemia carrier,0.7873112
+aspergillus,True,Aspergillus pneumonia,0.883917
+"VRE coverage,",False,Vulvar burning,0.76440316
+PCP,False,PPD positive,0.76816535
+"A-fib,",False,Fhx of non Hodgkins lymphoma,0.72139156
+Gastric ulcer,True,Acute gastric ulcer,0.96753967
+wheezes,True,Wheezing,0.90441155
+pulmonary edema,True,Pulmonary edema,1.0
+"wheezes,",False,Wheezing,0.82576966
+sob.,False,Miosis,0.7857534
+Afib.,False,IgG deficiency,0.77254176
+hypertension.,False,HTN (Hypertension),0.8307024
+heart failure.,True,Left heart failure,0.8655343
+Acute diastolic,True,Diastolic dysfunction,0.88873786
+heart failure:,True,Liver failure,0.8558186
+"Gram positive bacteremia,",True,MRSA bacteremia,0.8500675
+proteinuria:,True,Persistent proteinuria,0.88987
+"Altered mental status,",True,"Altered mental status, unspecified",0.8857039
+unresponsiveness,False,Suspiciousness and marked evasiveness,0.75710773
+"proteinuria,",True,Persistent proteinuria,0.8632243
+dCHF.,False,Goldblatt HTN,0.66830814
+Hypokalemia-,True,Hypokalemia,0.9545266
+Long QT:,False,Rh negative,0.7552589
+DVT PPx:,False,Fhx of DM,0.75477564
+Altered mental status,True,"Altered mental status, unspecified",0.8919463
+"leg swelling,",False,Mouth soreness,0.84567475
+Blood pressure,True,Blood pressure elevation,0.87273014
+leg swelling,True,Head swelling,0.90504986
+desentization,False,Deconditioning,0.7330725
+hives,False,Epidemic vertigo,0.7854912
+profuse vomiting.,True,Intractable nausea and vomiting,0.85859156
+desensitization,False,Pulp degeneration,0.7479821
+CAD.,False,IUD insertion,0.73428786
+desentization.,False,Social exclusion or rejection,0.76028496
+allergy,True,Fish allergy,0.915801
+Endo:,False,Bandemia,0.7755792
+PPX:,False,PPD positive,0.734298
+myasthenia,True,Myelatelia,0.86021703
+MG,True,Arthritis,0.8629096
+Afib with RVR,False,Hx of IUGR,0.8298887
+#NAME?,False,Photophobia,0.6999041
+acutely bradycardic,True,Hx of bradycardia,0.8542733
+myasthenia.,False,"Myasthenia gravis, in remission",0.7847848
+Myasthenia,True,Myelatelia,0.86021703
+"vomiting,",False,Persistent vomiting,0.84990203
+"nausea,",False,Choking sensation,0.8346374
+"chills,",True,Chills,0.9215323
+pruritis,False,Panniculitis,0.8465814
+antibiotic prophylaxis,True,Prophylactic antibiotic administration,0.9130081
+chills.,True,Chills,0.9236822
+blood pressure,True,Blood pressure elevation,0.87273014
+blood pressure.,True,Blood pressure elevation,0.9075352
+anaphylactic reaction,True,Anaphylactic shock,0.8513651
+"pruritis,",False,Panniculitis,0.7788322
+"facial erythema/edema,",True,"Amelanotic melanoma, unspecified site",0.87268806
+anaphylactic exposure,True,Anaphylactic shock,0.8817237
+pain/diarrhea/vomiting:,True,"Nausea, vomiting and diarrhea",0.8627641
+CAD/HTN:,False,FHX of CAD,0.74257576
+insomnia,True,Insomnia,0.9999999
+headache,True,Headache,1.0000001
+hemodynamically unstable,False,Hyperchloremic metabolic acidosis,0.7288614
+metabolic acidosis.,True,"Metabolic acidosis, unspecified",0.8733486
+"metabolic acidosis,",True,"Metabolic acidosis, unspecified",0.8987557
+metabolic acidosis,True,Respiratory acidosis,0.90869164
+fungal infection,True,Bacterial infection,0.9263012
+fungal process,True,Fungal pneumonia,0.91091776
+periorbital edema,True,Right periorbital edema,0.970296
+"diffuse skin etyhema,",True,Bilat cataract w inflammatory disorder,0.85195166
+elevated LFT's,False,Presence of tunnelled central line catheter,0.73875976
+eosinophilia,True,Tropical eosinophilia,0.95168746
+pleuritic chest pain,True,Pleuritic chest pain,1.0000001
+bipolar disease,True,Lip disease,0.87109804
+'unresponsive',False,Suspiciousness and marked evasiveness,0.70230967
+no breathing or radial pulse for 20 seconds.,False,Fetal ultrasound marker w increased nuchal translucency,0.73408246
+hypotensive episodes.,True,"Hypoparathyroidism, unspecified",0.8801477
+"bipolar disease,",True,Vision disorder,0.86355937
+"failure to thrive,",False,"Failure to thrive, child",0.8077553
+no breathing or radial pulse for 20 seconds,False,Fetal ultrasound marker w increased nuchal translucency,0.73408246
+"hypotensive episodes,",True,"Epilepsy, complex partial seizures, intractable w status epilepticus",0.8850943
+Arrythmias:,False,Right astigmatism,0.72135
+V-[**Last,False,HX of Fontan procedure,0.69733906
+rate control,False,Fall risk,0.8054198
+V-[**Year,False,Hx of STI,0.6825464
+renal insufficiency,True,Renal insufficiency,1.0
+Type two diabetes mellitus,True,Neonatal diabetes mellitus,0.86431354
+bleeding duodenal ulcers,True,Chronic duodenal ulcer,0.9309521
+elevated gastrin levels,False,Elevated serum creatinine,0.8257768
+elevated gastrin levels.,False,Elevated serum creatinine,0.8279129
+C. Difficile Colitis:,True,C difficile infection,0.8771541
+c. difficile.,False,Angina decubitus,0.78090405
+c. difficile,False,Angina decubitus,0.7451683
+UTI).,False,Upper UTI,0.7599489
+depression,True,Schizophrenia,0.9308648
+"serotonin syndrome,",True,Serotonin syndrome,0.93713063
+toxicity,True,Hepatitis,0.90591276
+"depression,",False,Pain crisis,0.84349763
+failure to thrive,False,Failure to thrive in newborn,0.8197089
+depression.,False,Reactive depression,0.8258705
+Dementia:,False,Eye disorder,0.8417973
+"unresponsive episodes,",False,Suspiciousness and marked evasiveness,0.75793356
+serotonin syndrome.,True,Serotonin syndrome,0.9477391
+Acalculus Cholecystitis:,True,Bilat dacryocystitis,0.8801031
+"persistent leukocytosis,",True,"Malignant histiocytosis, intraabdominal ln",0.9206625
+gram negative coverage.,False,Positive MRSA culture,0.75526047
+persistent leukocytosis.,True,Thrombocytopenia due to alcoholism,0.8980211
+Conjunctivitis:,True,Left conjunctivitis,0.9265158
+vomiting,True,Vomiting,0.9999999
+loss of balance,False,Loss of height,0.84612143
+alopecia,True,Alopecia,1.0000001
+thrush.,False,Anuria,0.73862135
+rash.,False,Rash,0.8484302
+failure to thrive.,False,Failure to thrive in newborn,0.80867785
+"bleed from your gastrointestinal tract,",True,Burn of gastrointestinal tract,0.89166415
+"GERD,",False,Hx of GERD,0.7492459
+atelectasis.,True,Atelectasis,0.8798651
+RR went down to 8,False,COVID-19 ruled out,0.6695074
+hypoxia,True,Hypoxia,1.0000002
+atelectasis,True,Atelectasis,1.0
+low RR,True,Back disorder,0.85975623
+post-op pain,False,Acute postoperative pain,0.80835795
+"dehydration,",True,Dehydration,0.94367534
+aspiration pneumonia.,True,Acute aspiration pneumonia,0.9077878
+drowsy.,False,Drowsiness,0.8434086
+improved hemostasis.,False,Low blood pressure reading,0.7874233
+S. aureus and,False,"Myasthenia gravis, in remission",0.74857336
+B. fragilis bacteremia.,True,Bacillus fragilis infection,0.8686598
+secretions,False,Penis boil,0.76043254
+maintain pressures.,False,Continuous oxygen therapy dependence,0.7199421
+bleed:,False,Breakthrough bleeding,0.80136216
+bleed,True,Burn,0.87346935
+bleed.,False,Sleep talking,0.7799232
+heart rate was controlled,False,Blood pressure elevation,0.72792697
+#Bacteremia:,False,Bacteremia,0.8396903
+"coag-negative S. aureus,",False,"Immunity to varicella, positive serology",0.7754638
+B. fragilis.,False,Cauda equina compression,0.8235437
+creatinine increase,True,Elevated serum creatinine,0.8918899
+secretions.,False,Soft tissue mass,0.74163324
+History of DVT,False,Hx of DVT,0.6996198
+"wheezing,",True,Wheezing,0.8784547
+dyscomfort.,False,Empyema w mediastinal fistula,0.70819557
+Asthma/COPD,False,CMV enteritis,0.7991458
+cramps,True,Cramp,0.8538567
+Constipation,True,Constipation,1.0
+SOB/Wheezing,True,Wheezing,0.8863333
+abdominal cramps.,False,Sleep related leg cramps,0.8272793
+"angioedema,",True,Angioedema,0.90122646
+Prophylaxis:,False,Prophylactic chemotherapy,0.76145566
+"rash,",False,Kissing spine,0.8001783
+superficial phlebitis,False,Bilat lower blepharitis,0.81501925
+test.,False,Declines lab draws,0.8250474
+acute renal failure,True,Acute liver failure,0.9372468
+"morbilliform rash,",False,"Villous adenoma, duodenum",0.8104636
+anaphylactic shock,True,Anaphylactic shock,1.0000002
+Hepatitis C Cirrhosis,True,Cirrhosis due to chronic hepatitis C,0.9171782
+Hepatocellular Carcinoma:,True,Hepatocellular carcinoma,0.96947515
+Hypothyroid:,True,Hypothyroidism,0.85922104
+low blood pressure.,True,Low blood pressure reading,0.9546566
+reaction,True,Arthritis,0.90357435
+"DVT,",False,Rh negative,0.78132194
+large DVT clot burden.,False,Chronic DVT of bilat axillary veins,0.8364727
+long-term anticoagulation.,True,Long term anticoagulant therapy,0.8707517
+Leukopenia.,True,Leukopenia,0.8728976
+Hyperlipidemia.,True,Hyperlipidemia,0.9354044
+"LFT's were elevated,",False,Presence of tunnelled central line catheter,0.6833414
+urine output.,False,Elevated serum cobalt,0.7736172
+"shaking chills,",False,Chills,0.8493264
+Immunosuppression:,True,Long term immunosuppression therapy,0.9213695
+aggressive pain control,False,Chronic stress reaction,0.8379779
+"sedated,",False,Locked in syndrome,0.7141485
+"worsening multifocal pneumonia,",False,"Drug induced interstitial lung disease, unspecified acuity",0.8480609
+Pulmonary edema/Acute,True,Acute pulmonary edema,0.91776264
+SVT,False,Bandemia,0.73395145
+SVT:,False,DM 2,0.72014356
+anemia.,True,Anemia,0.91334784
+extremity erythema and itching,True,Ischemic intestinal stricture,0.85041666
+breast cancer,True,Prostate cancer,0.9362241
+stage I,False,DM 1,0.7214086
+breast cancer.,False,Breast disease,0.84198815
+rash).,False,Bandemia,0.7682284
+breast ca,False,Accessory breast,0.84595674
+healthcare-associated pneumonia,True,Recurrent pneumonia,0.8531263
+resuscitation,False,Do not resuscitate status,0.80173326
+thyroid ca,True,Lipoid pneumonia,0.85390174
+"metastatic disease,",False,Huntingtons disease,0.8361364
+metastatic disease,False,Critical illness polyneuropathy,0.84216046
+metastatic disease:,False,Simple chronic anemia,0.8348824
+thrush:,False,Anuria,0.74998593
+HIT positive.,False,Positive culture finding,0.75513965
+Temps as high as 102.+,False,"Burn, > 90% BSA, third degree 10-19% BSA",0.6424258
+"AML/MDS,",False,Abnl CNS imaging,0.76079875
+"headache,",False,Tension headache,0.84283626
+"shortness of breath,",False,Lack of coordination,0.815543
+"1.)AML,",False,MRSA pneumonia,0.66286534
+AML,False,MRSA pneumonia,0.68403065
+shortness of breath/wheezing,False,Wheezing,0.80610496
+for coverage of severe CAP.,False,High risk medication monitoring,0.73342854
+DVT prophylaxis.,False,Serological relapse after treatment of latent early syphilis,0.8342266
+Altered/Persistent Depressed mental status:,True,Adjustment disorder w mixed anxiety and depressed mood,0.85649955
+sedation,False,Anemia,0.7943003
+Fevers:,False,Malarial fever,0.8156427
+"SOB,",False,Kissing spine,0.79410756
+Wheezing,True,Wheezing,1.0
+volume overload,False,Demand ischemia,0.75764745
+mouth/throat pain,True,Throat pain,0.864447
+ESRD,False,Macule,0.81093216
+BiV pacer,False,"VIN 2, moderate vulvar dysplasia",0.68151385
+DMII,False,DM 2,0.78408897
+a-fib,False,Right iritis,0.736058
+HD catheter infection,True,Catheter infection,0.9567559
+increased INR.,False,Elevated serum cobalt,0.79072434
+INR normalized,False,Chromosome inversion in normal individual,0.7539852
+line infection.,True,MRSA infection,0.85999
+#Hypothyroidism:,True,Hypothyroidism,0.9076107
+Systolic CHF:,False,"Systolic heart failure, unspecified acuity",0.74059117
+Diabetes type II:,False,"Alzheimers disease, late onset",0.79672676
+Left phantom,False,Left radius Fx,0.80645293
+limb pain.,False,Chest pain,0.8364892
+wheeze,True,Wheezing,0.87299234
+limb pain,True,Bone pain,0.92293894
+severe constipation.,True,Chronic constipation,0.9437616
+coagulopathy,True,Hx of coagulopathy,0.86425066
+bradycardic,True,Bradycardia,0.90977985
+SBP 80s,False,DM 2,0.7529281
+"bradycardic,",True,Bradycardia,0.8629924
+"SBP 80s,",False,"AV block, Mobitz type 1",0.7001976
+3)Bradycardia:,False,Hx of bradycardia,0.8490796
+4)Meningitis:,True,Chronic meningitis,0.86915267
+"listeria,",False,Infectious disease carrier,0.77672637
+Staph/Strep,False,Strep carrier,0.72776854
+5)Hypothyroidism:,True,Tertiary hypothyroidism,0.9113222
+6)Coagulopathy:,False,Hx of coagulopathy,0.8432563
+neuropathy,True,Neuropathy,1.0000001
+SIRS/septic,False,DM 2 wo complications,0.74539924
+hypoglycemia,True,Hypoglycemia,1.0000002
+Hyperlipdemia,True,Hyperlipidemia,0.9218277
+prevent DVT,False,Hx of recurrent DVT,0.82567805
+"Diabetes, Type 2",False,"Alzheimers disease, late onset",0.81285346
+"bacteria in your blood,",False,Sun damaged skin,0.72723913
+INR was corrected,False,IUD surveillance,0.75220734
+hemorrhage.,True,Pulmonary hemorrhage,0.91092134
+hemorrhage,True,Pulmonary hemorrhage,0.9452562
+Paroxysmal atrial fibrilation,True,Longstanding persistent atrial fibrillation,0.89313626
+intoxication,True,Alcohol intoxication,0.943017
+changes in your mental status,False,"Altered mental status, unspecified",0.77982223
+fungus.,False,Growing pains,0.8210368
+Shingles,False,Pallor,0.6915399
+stomach,True,Fatigue,0.902992
+TLS.,False,MRSA pneumonia,0.80869246
+"worsening lactic acidosis,",True,"Drug induced hemolytic anemia, immune complex type",0.8622168
+renal failure,True,Renal failure,1.0
+mucositis,True,ulcerative mucositis due to nonantineoplastic drugs,0.8960905
+Pneumonia-,True,TB pneumonia,0.8575339
+Rash-,True,Back disorder,0.8548603
+Fluid retention:,False,Fluid volume disorder,0.8055971
+chemotherapy regimen.,False,Long term antibiotic therapy,0.8051574
+Shingles-,False,Skin scar,0.702829
+BPH,False,Rh positive,0.8258443
+Mucositis.,True,ulcerative mucositis due to nonantineoplastic drugs,0.90570015
+retaining fluid,False,Body fluid retention,0.8060859
+blood counts,False,Skin mass,0.78063405
+prevention of infection,False,Hx of bacterial infection,0.8482275
+pain;,True,Pain crisis,0.8557709
+constipation;,True,Chronic constipation,0.8853358
+fluid in your legs,False,Bilat arm cramps,0.73012376
+mucositis pain,True,ulcerative mucositis due to nonantineoplastic drugs,0.90383124
+stroke,True,Plague,0.8972876
+"stroke,",False,Thumb sucking,0.8031847
+hypernatremia,True,Hypernatremia,1.0000002
+stroke:,False,FHX of stroke,0.70001173
+cataracts,False,Right cataract,0.78105116
+glaucoma:,True,Hx of glaucoma,0.8931691
+glaucoma,True,Right uveitis glaucoma hyphema syndrome,0.8643673
+acute drop in your blood count.,False,Low blood pressure reading,0.81769943
+"FSG 30,",False,DM 1,0.6817484
+"hyponatremia to 120,",True,Hyponatremia,0.88385385
+concern for sepsis,False,Exposure to pertussis,0.83499956
+"Diabetes Mellitus, type 2",False,Latent autoimmune diabetes of adults,0.809154
+Hypoglycemia:,True,Hypoglycemia,0.96313566
+"afib,",False,"SAB, unspecified w UTI",0.75540507
+Hypoglycemia/Type,True,Hypoglycemia post gi surgery,0.94130176
+Hypoglycemia,True,Hypoglycemia,1.0000002
+"Chronic diastolic heart failure,",True,"Diastolic heart failure, chronic",0.9575343
+Chronic diastolic heart failure;,True,"Diastolic heart failure, chronic",0.9373333
+AMS.,False,IUD insertion,0.7224381
+copd exacerbation.,True,Acute exacerbation of COPD,0.85667783
+mental status.,False,"Altered mental status, unspecified",0.7931451
+AMS,False,MRSA pneumonia,0.7921121
+overdose,True,Mania,0.9100792
+respiratory status.,False,Respiratory abnormality,0.8153314
+mental status,False,"Altered mental status, unspecified",0.79354596
+Acute on Chronic Renal Failure,True,Acute on chronic renal failure,0.9999999
+Restless Leg syndrome,True,Restless legs syndrome,0.90512455
+overdosed,False,Heroin overdose,0.838274
+IPF,False,Stress,0.7343773
+"mechanical mitral valve,",False,HX of mitral valve replacement,0.8125138
+mechanical mitral valve,False,HX of mitral valve replacement,0.8436393
+chronic obstructive pulmonary disease:,True,Chronic obstructive asthma,0.9028652
+idiopathic pulmonary fibrosis,True,Idiopathic pulmonary fibrosis,1.0000001
+idiopathic pulmonary fibrosis.,True,Idiopathic pulmonary fibrosis,0.94034576
+"IPF,COPD,anemia,",False,"Adenocarcinoma, esophagus, unspecified site",0.80611724
+"mechanical mitral valve,and",False,"Hx of mitral valve replacement, bioprosthetic",0.80845094
+esophageal varaces.,True,Esophageal varices,0.90380967
+"IPF,",False,Rh negative,0.74104285
+dyspnea,True,Dyspnea,1.0000001
+her heart valve.,False,Blood pressure elevation,0.73587024
+"RUL HAP,",False,"CAD wo angina, w hx of CABG",0.7254925
+HCAP,False,Complete SAB,0.7796366
+"c.diff,",False,MRSA pneumonia,0.7463147
+c.diff.,False,RSV pneumonia,0.72149396
+INR of 10,False,FHX of CAD,0.73132
+mechanical mitral valve.,False,HX of mitral valve replacement,0.82270944
+supratherapeutic PTT,False,Vibrio parahemolyticus food poisoning,0.7554777
+Esophageal Varices.,True,Esophageal varices,0.9430423
+Health Care Associated Pneumonia,True,Cancer related fatigue,0.8655131
+C. Difficile infection,True,C difficile infection,0.93872523
+Congestive Heart Failure,True,"Systolic heart failure, chronic",0.9010582
+Mitral Valve Replacement;,True,HX of mitral valve replacement,0.8651635
+Arrythmia,False,Anosmia,0.8183135
+goal inr 2.5 - 3.5.,False,DM 2 w bilat proliferative retinopathy,0.6860144
+RR< 12,False,BMI <20 adult,0.7536231
+"GI bleed,",False,Gout,0.7225294
+infection in your GI tract,False,URI (upper respiratory infection),0.8189473
+gastric varices,True,Gastric varices,0.99999994
+perioperative,False,"AV block, postoperative",0.71868175
+pain management,True,Wound drainage,0.85594475
+blood glucose management.,False,Long term insulin therapy,0.80038977
+diuresiss,False,Enuresis,0.84900475
+lower extremity edema.,True,Right stromal corneal edema,0.871853
+decreased hematocrit,True,"Benign neoplasm, lip",0.8622792
+Incisional pain,True,Incisional hernia,0.89793295
+PEs.,False,IUD insertion,0.77466923
+Pulmonary emboli:,True,Recurrent pulmonary embolism,0.8738215
+NSCLCa,False,MSSA carrier,0.68959963
+Intermittent Atrial Tachycardia:,True,Atrial tachycardia,0.95020354
+oral sores:,False,Oral soft tissue disorder,0.8150817
+"RA,",False,Anuria,0.7472071
+biliary sepsis,True,Biliary colic,0.8890084
+hypotensive/unstable,False,Orthostatic hypotension,0.8071164
+rapid afib with decompensation,False,Late effect of intracerebral hemorrhage,0.8027351
+"sepsis,",False,SARS pneumonia,0.8224757
+E. coli,True,E coli pneumonia,0.88999057
+E. coli.,True,E coli pneumonia,0.90206796
+drop in platelets,False,Change in bowel habit,0.80609363
+RA,False,Rash,0.8488806
+sepsis,True,Listerial sepsis,0.8673068
+urosepsis,False,Hematemesis,0.8333003
+"biliary sepsis,",True,"Postthrombotic ulcer, unspecified site and depth",0.8873899
+hemodynamic support.,False,Hemodialysis dependence,0.8033159
+?urosepsis.,False,Onychomadesis,0.8194915
+Afib:,False,FHX of CAD,0.73492754
+bladder spasms,True,Bladder spasm,0.9380731
+low ejection fraction).,False,Hx of bilat below elbow amputation,0.70337605
+coronary artery disease-,True,Congenital coronary artery anomaly,0.89593244
+AV paced,False,Breakthrough bleeding,0.82679117
+coronary artery disease.,True,Coronary arteritis,0.89104974
+"diabetes mellitus,",False,Measles complicated by pneumonia,0.8113308
+encephalopathy,True,Encephalopathy,1.0000002
+seizure.,False,"Seizure, unspecified",0.8293936
+"cardiogenic shock,",True,Cardiogenic shock,0.86068505
+cardiogenic shock.,True,Cardiogenic shock,0.8601899
+inotropic effect,False,"Apraxia, late effect of ischemic stroke",0.7947118
+low CO.,False,MRSA carrier,0.751041
+temp 102.5,False,DM 1,0.70204484
+"SOB,.",False,Rash,0.7711619
+rash on chest,False,Localized swelling on back,0.8496869
+hives on neck,False,Spider nevus of skin,0.7653559
+constipating,True,Constipation,0.8919456
+"constipated,",False,Atonic constipation,0.7159438
+toothache,True,Toothache,1.0
+UGI bleed,False,Skull fx,0.7374376
+GI bleed:,False,Open skull fx,0.6950897
+GI bleeds.,False,Left lunate Fx,0.72958887
+Thrombocytopenic,True,Hx of thrombocytopenia,0.872599
+SBP prophylaxis,False,Prophylactic Rho(D) immune globulin administration,0.80284566
+Smoking cessation,False,Neonatal exposure to tobacco smoke,0.74226713
+cardiac arrest,False,Terminal illness,0.8459877
+low hct.,False,Elevated LDH,0.79574555
+Chronic Systolic Dysfunction:,True,Diastolic dysfunction,0.8712097
+Diarrhea.,True,Diarrhea,0.9201715
+Polymyalgia Rheumatica:,True,Polymyalgia rheumatica,1.0000002
+bioprosthetic valve.,False,Nonsurgical wound dressing change or removal,0.7985686
+to prevent blood clots around the valve.,False,HX of artificial heart valve replacement,0.7820693
+help your heart pump better,False,Heart murmur,0.64981246
+to prevent blood clots,False,Bronchiolitis due to metapneumovirus,0.78202945
+toxic-metabolic encephalopathy,True,Metabolic encephalopathy,0.919127
+AF),False,Bandemia,0.7345193
+fevers/chills/cough/allergies,False,Whooping cough due to Bordetella parapertussis w pneumonia,0.74762535
+infected cyst,True,Infected sebaceous cyst,0.8623946
+Type II DM,False,Type 2 MI,0.77947235
+ATRA syndrome,True,Angelman syndrome,0.87538797
+pulmonary leak.,True,Pulmonary air leak,0.90607613
+elevated bilirubin.,True,Elevated total bilirubin,0.8975861
+tumor lysis syndrome,True,Tumor lysis syndrome,1.0
+pulmonary leak,True,Pulmonary air leak,0.94304734
+Toxic Metabolic Encephalopathy:,True,Metabolic encephalopathy,0.9203243
+(TLS),False,HX of stroke,0.6810273
+TLS,False,Bandemia,0.7964158
+diurese,False,Enuresis,0.7078745
+Bilateral Subdural Hematomas:,True,Subdural hematoma due to birth trauma,0.92788076
+Positive Blood Cultures:,False,Positive MRSA culture,0.7804209
+better coverage of gut pathogens.,False,Vaccination for viral hepatitis A and hepatitis B,0.7748582
+fungal pathogens.,False,Fungal pneumonia,0.8320631
+GPCs in chains.,False,Adhesions of bilat TMJ,0.7181656
+Elevated Glucose:,False,Elevated serum cobalt,0.82523835
+VRE coverage.,False,Vulvar burning,0.7685252
+Gastroenteritis,True,Gastroenteritis,1.0000001
+pain/nausea/vomiting,False,Nausea and vomiting,0.8073096
+Autoimmune hepatitis:,True,Autoimmune hepatitis,0.93948543
+high grade S aureus bacteremia,True,MRSA bacteremia,0.8918779
+occult anemia.,True,Chronic anemia,0.8754879
+high ascites drain output,False,Extravasation of iv contrast media,0.7635914
+persistent abdominal pain.,True,Abdominal pain,0.8830571
+Acinetobacter Baumanii,False,Achromobacter pneumonia,0.82786644
+generalized edema.,False,Functional enuresis,0.7511456
+headache.,False,Mixed headache,0.84982383
+hypertensive.,True,Hypertensive crisis,0.858308
+Immunosuppression,True,Long term immunosuppression therapy,0.93822384
+Autoimmune hepatitis.,True,Autoimmune hepatitis,0.93535006
+2+ leg edema.,False,Leg edema,0.82918334
+food allergens,False,Food additive allergy,0.8131952
+diverticulitis.,True,Diverticulitis,0.95650136
+diverticulitis,True,Diverticulitis,1.0000001
+developed a fever/rash,False,Spotted fever due to Rickettsia conorii,0.78816134
+severe skin rash,True,Skin infection,0.9056691
+Allergic reaction,True,Allergic reaction,1.0
+severe rash/renal,False,Left acute iritis,0.8290076
+PE,False,Arthritis,0.7296884
+"+Nausea/vomiting,",False,Hx of severe nausea vomiting due to anesthesia,0.8051859
+carcinoma of lung,True,"Small cell carcinoma, left lung lower lobe",0.8927376
+poor PO intake.,False,Inadequate sleep hygiene,0.7956945
+DVT prophylaxis,False,Prophylactic Rho(D) immune globulin administration,0.81501913
+GI prophylaxis.,False,Serological relapse after treatment of latent early syphilis,0.7974522
+Heart burn.,False,Heart murmur,0.7802392
+Nausea,True,Nausea,0.99999976
+SBP,False,AV block,0.77704096
+coffee ground emesis,False,Vitamin K overdose,0.7416561
+UPPER GI BLEED:,False,Hx of reverse right total shoulder arthroplasty,0.7617569
+concern for perforation,False,Colon perforation,0.8263321
+elevated WBC.,False,Elevated CA 125,0.7118846
+RENAL FAILURE,True,Renal failure,1.0
+nephrotoxity,False,Nephrotoxic serum nephritis,0.84001493
+encephalopathy ppx.,True,Encephalopathy,0.8973456
+DIARRHEA,True,Diarrhea,0.9999999
+"SBP,",False,Rh negative,0.74001575
+aneurysm,True,Congenital aneurysm,0.93185437
+SAH;,False,Rh positive,0.72179633
+SAH.,False,Ainhum,0.772943
+to maintain goal blood pressures.,False,Body fluid retention,0.73893523
+increased ICPs.,False,Elevated serum cobalt,0.76467943
+sustained ICP levels of 23,False,Exposure to COVID-19,0.7797973
+systolic blood pressure in 60's.The,False,Low blood pressure reading,0.76410854
+goal MAP > 100,False,Severe obesity (BMI >= 40),0.6855496
+stridor.,True,Stridor,0.8780023
+post procedure pain or discomfort.,False,Chronic postoperative pain,0.823303
+Severe headache,True,Chronic daily headache,0.9031013
+worsening headache,True,Chronic tension headache,0.8598131
+lip and tongue swelling,False,Tongue swelling,0.8490927
+astham,False,Mania,0.8275557
+chronic uterine bleeding.,True,Recurrent vaginal cancer,0.8674336
+anaphylaxis type reaction.,False,Blood product anaphylaxis,0.82594067
+anaphylaxis.,True,Anaphylaxis,0.9315102
+swelling of the lips and tongue.,False,Swelling of bilat fingers,0.7860937
+allergic reaction,True,Allergic reaction,1.0
+MRSA),False,MRSA carrier,0.82661396
+pseudomonas).,False,Pseudomonas infection,0.7982112
+pseudomonas,True,Pseudomonas UTI,0.9201676
+(MRSA/Pseudomonas),False,Trichomonas infection,0.7962121
+MRSA/Pseudomonas,True,Pseudomonas UTI,0.85000587
+Pseudomonas.,True,Pseudomonas pneumonia,0.8837565
+avoid resistance,False,Fall risk,0.77811104
+COPD:,False,FHX of CAD,0.7680561
+Anxiety:,False,Separation anxiety,0.82467127
+Chest Pain:,True,Chest pain,0.8692571
+Abdominal pain:,True,Abdominal pain,0.89079463
+Nausea/vomiting.,True,Nausea and vomiting,0.8909984
+/vomiting.,False,Persistent vomiting,0.76803255
+Anxiety,True,Confusion,0.8885008
+extensive GI bleeding,False,Vomiting after GI surgery,0.82196915
+platelet count of 14,False,IV drug use,0.6121795
+dysfunctional platelets.,False,Drug induced platelet dysfunction,0.8383889
+severe nausea,True,Persistent vomiting,0.87688
+bloody stool,True,Bulky stool,0.86181575
+renal insufficiency;,True,Renal insufficiency,0.92898583
+"neutropenia,",True,"Neutropenia, unspecified",0.9207573
+MDS,False,MSSA pneumonia,0.7950853
+maintain her platelet count over 50,False,Positive MRSA culture,0.6619742
+Neutropenic fever:,True,"Neutropenic fever, unspecified",0.93939483
+MDS treatment,False,MSSA infection,0.8099539
+neutropenic.,False,Neutropenic splenomegaly,0.768381
+"rash),",False,Back disorder,0.7849469
+fluid overload,False,Fluid volume disorder,0.79595006
+"afebrile,",False,Febrile UTI,0.7572387
+afebrile,False,Febrile UTI,0.7235246
+MDS:,False,PPD positive,0.6759917
+dry nose.,False,Dry mouth,0.8139089
+hyponatremia.,True,Hyponatremia,0.9482425
+bilateral,True,Pneumonia,0.89739233
+pleural effusions.,True,Pleural effusion,0.9060974
+C Diff colitis:,False,Hx of colitis,0.8345193
+SDH,False,ADHD,0.7842319
+ICD,False,MRSA pneumonia,0.748819
+meningitis proprolaxis,True,Hemophilus meningitis,0.92503273
